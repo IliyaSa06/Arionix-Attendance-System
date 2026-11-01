@@ -1,5 +1,5 @@
 # Arionix Attendance System
-
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/383c5c32-b78a-41ab-9736-7d2e182c46f6" />
 A desktop attendance system for Windows that recognises employees by their face. Point a webcam at the door, and every recognised person is checked in automatically. No cloud, no server, no account: everything runs and is stored on the local machine.
 
 **Version:** 3.0.0  **Author:** Iliya Saiedi
@@ -69,6 +69,7 @@ python run.py
 3. **Employees**: search and delete employees. Deleting an employee also deletes all of their attendance records.
 4. **Attendance Report**: choose a date range (`YYYY-MM-DD`), review the records and the daily summary, and export to CSV.
 5. The sidebar lets you pick the camera, toggle dark mode, Shamsi dates and the check-in sound.
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/64ad367d-6949-4096-b04c-12084929b76f" />
 
 ## Configuration
 
